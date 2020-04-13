@@ -1,0 +1,2 @@
+# Quarantine
+class activity
